@@ -1,0 +1,15 @@
+.page {
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+  overflow: auto;
+}
+.page .map {
+  width: 100%;
+  height: 50vh;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+}
+

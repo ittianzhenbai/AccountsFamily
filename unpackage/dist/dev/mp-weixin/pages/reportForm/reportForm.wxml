@@ -1,0 +1,1 @@
+<view class="page"><block wx:if="{{status==true}}"><map class="map" latitude="{{latitude}}" longitude="{{longitude}}"></map></block><text>{{this.latitude}}</text></view>

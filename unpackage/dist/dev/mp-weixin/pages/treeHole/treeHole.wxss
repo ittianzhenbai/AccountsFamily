@@ -1,0 +1,64 @@
+.page {
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+  overflow: auto;
+}
+.page .search-box {
+  background-color: rgba(245,245,245,0.8);
+  height: 60rpx;
+  margin: 20rpx 20rpx 40rpx;
+  width: calc(100% -44rpx);
+  border-radius: 30rpx;
+}
+.page .search-box .search-icon {
+  width: 40rpx;
+  height: 40rpx;
+  float: left;
+  margin: 10rpx;
+}
+.page .search-box .text {
+  color: #a6a6a6;
+  line-height: 60rpx;
+}
+.page .result-list-box .result-list {
+  -webkit-column-count: 2;
+          column-count: 2;
+  -webkit-column-gap: 0;
+          column-gap: 0;
+}
+.page .result-list-box .result-list .single-result {
+  box-sizing: border-box;
+  -webkit-column-break-inside: avoid;
+          break-inside: avoid;
+  padding: 10rpx;
+}
+.page .result-list-box .result-list .single-result .result-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 20rpx;
+  height: auto;
+  font-size: 36rpx;
+  color: #686868;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 20rpx;
+}
+.page .result-list-box .result-list .single-result .result-content .pic {
+  width: calc(100% - 20rpx);
+  max-height: 200rpx;
+  border-radius: 20rpx;
+  margin: 10rpx;
+}
+

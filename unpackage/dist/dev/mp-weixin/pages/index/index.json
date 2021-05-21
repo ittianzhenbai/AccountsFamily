@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "账单",
+  "usingComponents": {
+    "uni-ec-canvas": "/components/uni-ec-canvas/uni-ec-canvas",
+    "uni-calendar": "/components/uni-calendar/uni-calendar",
+    "ceshi": "/components/ceshi/ceshi"
+  }
+}

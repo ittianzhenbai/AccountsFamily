@@ -1,0 +1,51 @@
+.content.data-v-57280228 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .text-area.data-v-57280228 {
+  text-align: center;
+  margin-top: 50rpx;
+}
+.content .text-area .title.data-v-57280228 {
+  font-size: 36rpx;
+  color: #fff;
+}
+.content .text-area .account-list.data-v-57280228 {
+  height: calc(100vh - 98rpx);
+  width: 100vw;
+  background-color: #fff;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+}
+.content .text-area .account-list .text1.data-v-57280228 {
+  text-align: left;
+  padding-left: 5%;
+  font-size: 32rpx;
+  line-height: 50px;
+  border-bottom: 1px solid #808080;
+}
+.content .text-area .account-list .text1 .down-icon.data-v-57280228 {
+  display: inline-block;
+  width: 32rpx;
+  height: 32rpx;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAB50lEQVRoQ+2WX0dFQRRH133rO/TWex+iD9EfiYhIKSIieoiIiEgRUaKHUhERiRIRiYiIiKSIiIiIMpk4jpk758zeRy4zr3f2nrX2b+45p0aDr1qD85ME/jvBlEBKQDiBdIWEAxSXpwTEIxQ2SAkIByguTwmIRyhskBIQDlBcHkqgCdgCWoE1YEp8YrEG7cA48A6c1Ds3JLAIDGbOnAYmizFE7zLwZmh/6wlo9nULCXQDG7niGWAiGq9+YR7e7DYJtMUKmDozDdM4u2ZtxJoeLvhvoAPYlgj4JOaAMSUDF/wX0Ans1jsjdIWyta4k5oFRoYQL/tPC74V6lxHwJbEAjIQO8vzugv+w8PtFepYV8EksAUNFDszsccGbx6a5NgdFe8UI+CSWgYGCB7vg3yz8YcEev9tiBXwSK0B/AMAF/wp0AUdl4KUCPolVoK/EnX+x8Mdl4TUEfBLrQG8OyDX5Zwt/GgOvJeCTMG/wHgvmgn+08Gex8JoCPolNYCf3bWP2Ptg/7LkEXlvAJ5FnvLfwF1L4KgRCEnf22lxqwFcl4JO4tfBXWvBVCuQlbiz8tSZ81QKm/zDQApjPb/PIVF+SN7E6TEzDJBAzNc2alIDmNGN6pQRipqZZkxLQnGZMr5RAzNQ0axo+gR+7S1IxDTSN7wAAAABJRU5ErkJggg==);
+  background-size: contain;
+  background-position: center 5rpx;
+  margin-left: 30rpx;
+}
+.content .text-area .account-list .text1 .down-icon-active.data-v-57280228 {
+  -webkit-transform: rotateX(180deg);
+          transform: rotateX(180deg);
+  background-position: center -5rpx;
+}
+.content .text-area .account-list .account-result.data-v-57280228 {
+  margin-top: 20rpx;
+}
+.content .text-area .account-list .account-result .uni-ec-canvas.data-v-57280228 {
+  display: block;
+  width: 100%;
+  height: 600rpx;
+  margin: 0 auto;
+}
+

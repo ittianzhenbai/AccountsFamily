@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+page{
+	background-image: url(http://pic.netbian.com/uploads/allimg/201221/223044-16085610449bf9.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+
